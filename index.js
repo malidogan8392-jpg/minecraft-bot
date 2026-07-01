@@ -1,4 +1,4 @@
-bu const mineflayer = require('mineflayer');
+ const mineflayer = require('mineflayer');
 const express = require('express');
 
 const app = express();
