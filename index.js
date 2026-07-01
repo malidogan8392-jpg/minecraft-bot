@@ -11,7 +11,7 @@ app.listen(PORT, () => console.log(`Web sunucu hazir: ${PORT}`));
 
 const SERVERS = [
     { host: 'alininsunucusu.skymc.io',    port: 25565, username: 'AfkBot-123' },
-    { host: 'alininsunucusu402.mcsh.io',  port: 25565, username: 'AfkBot-456' },
+    { host: 'alininsunucusu.mcsh.io',  port: 25565, username: 'AfkBot-456' },
 ];
 
 function startBot(server) {
